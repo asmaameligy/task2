@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">meme2</string>
+    <string name="name">Asmaa Ali Mohamed Meligy</string>
+    <string name="tasks">Task2</string>
+    <string name="type">Mobile App</string>
+    <string name="rate">The Task is:</string>
+    <string name="firstch">Bad</string>
+    <string name="secondch">Good</string>
+    <string name="thirdch">Very Good</string>
+</resources>
